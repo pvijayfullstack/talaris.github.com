@@ -1,11 +1,11 @@
-Daniel Mayer  
-dan@mayerdan.com  
-503-819-3246  
-821 Maryland Ave NE #305  
-Washington, DC 20002  
+Kyle Burckhard  
+kyle@vorpalcode.com  
+425-318-1369  
+19713 Bothell Everett Hwy Apt 207  
+Bothell, WA 98012  
 
-[GitHub](http://github.com/danmayer)  
-[Blog](http://mayerdan.com)  
+[GitHub](http://github.com/talaris)  
+[Blog](http://vorpalcode.com)  
 
 Skills
 ----------------
@@ -13,70 +13,51 @@ Skills
 * Ruby
   * Rails
   * Sinatra
-  * Merb
   * EventMachine
   * DataMapper
-  * Custom EventMachine-based protocols
 
 * Tools
   * Linux
   * OS X
-  * Javascript (JQuery/Prototype)
+  * Javascript (JQuery)
   * HTML
-  * Amazon Web Services (Ec2, SimpleDB, S3, SQS)
-  * Distributed Computing
   * Apache
   * MySQL
-  * PostgreSQL
   * Schemaless DBs (NoSql)
-  * RESTul webservice API's
-
-* Style
-  * Pair Programming
-  * Test-Focused Development
-  * Distributed Teams
-  * Agile team management
-  * Contributor to Ruby OSS software
-  * Active on Github
+  * Git
+  * SVN
 
 Work Experience
 ---------------
-__Devver__  
-Founder / CTO / Ruby Software Developer  
-April 2008 - April 2010  
-Software startup to make the lives of developers easier. Originally developed accelerated testing for Ruby developers. More recently, launched getcaliper.com, which builds code analytics for all Rubygems and builds metrics for public and private git-based Ruby projects.  
+__AT&T Mobility__  
+Tools Developer / Systems Administrator
+March 2001 - December 2009
+  
+* Developed multiple Ruby and PHP based tools and websites to optimize procedures and reduce response times to incidents.  
+* Worked as a team lead for a large team that monitored approximately 80,000 alerts per month, sent from thousands of Unix servers, hundreds of applications and databases and on a 24/7 basis.  
+* Worked towards documenting trouble resolution actions for all common errors in the environment. Updated or wrote new documentation when steps were outdated or incomplete through research and communicating with other teams.  
 
-* Built accelerated testing tool, using distributed computing services to run developer tests
-* Developed a cloud-based continuous integration server and notification services
-* Developed cloud-based code metrics and analytics project analyzer, which integrated with Rubygems.org to provide analytics on all public Rubygems and many OSS git-based projects (7000+ projects)
-* Member of a distributed agile team -- practiced daily standups, remote pair programming, and continuous integration
-* Worked extensively with cloud based services and distributed computing techniques. (EC2, Beanstalkd queues, Schemaless SimpleDB, S3)
-* Developed and deployed EventMachine, Merb, Rails, and Sinatra in production environments
+__University of Washington__  
+Tools Developer / Lab Technician
+August 1998 - March 2001
+Although I started a Lab Tech in 2000 I moved from assisting in the student computer labs to the CTLT, splitting my time between assisting faculty and work on the Catalyst Project.
 
-__Pretheory__  
-Founder  
-May 2007 - April 2008  
-Small Denver-based consumer web startup. Built [Seekler.com](http://seekler.com) to help people find the best of everything online by user generated, community-based top 10 lists on topics or products. Seekler was a social way to rank things with friends or the entire community.  
-
-__Indigio__  
-Java Lead Engineer  
-August 2006 - May 2007  
-Developed web sites for Fortune 500 companies. Managed a small Java team with local and international remote employees.  
-
-* Developed and deployed large scale newspaper, real estate, and car rental companies Java sites
-
-
-__Impact Science & Technology (IST)__  
-Java Software Engineer  
-December 2005 - June 2006  
-Developed full lifecycle of a DOD distributed synchronous infrastructure in Java.  
+* Project was aimed at building web based resources that the teaching faculty could leverage into aiding with various tasks for there classes.
+* Developed a web interface layer to management mailman membership, allowing teachers to configure and then give students a URL to go to join in on class related discussions.
+* The first project I worked on was a simplified templating system that allowed Catalyst users and developers to write guides and other documentation in a standard format.   
 
 
 Education
 ---------------  
-University of Colorado  
-Boulder, CO  
-B.S., Computer Science  
-GPA: 3.185  
+Unversity of Washington  
+Augest 2009 - June 2010
+Seattle, WA
+Ruby Programming Certificate Program
+
+Unversity of Washington  
+Augest 1998 - March 2001
+Seattle, WA
+Graphic Communication
+
 
 _References available on request_  
